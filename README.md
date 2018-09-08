@@ -12,6 +12,8 @@ The following outputs are shown:
 Dataset for evaluating Naïve Bayes classifier: Heart Disease Data Set, available from: 
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
+OUTPUT   
+
 Naïve Bayes Classifier from Scratch
 Test Train Split no.  1 
 
